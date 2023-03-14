@@ -1,11 +1,8 @@
 
 <h1 align="center">A developer in constant learning</h1>
 
-<h3>Characteristics</h3>
+<p align="center" > fascination with technology | passionate about photography | musician in my spare time </p>
 
-- fascination with technology;
-- passionate about photography;
-- musician in my spare time.
 
 <hr>
 
@@ -41,17 +38,57 @@
     </table>
     
 <hr>
-<hr>
 
 <h2>Websites and apps developed for study</h2>
 
+
+
+
+
+<table border="none">
+  <thead>
+  <th>
+    <p>
+    <img width="90" src="http://froggr.com.br/wp-content/uploads/2020/01/Logo_Frog-Atualizado-1-e1579896469461.png" alt="logo">
+    </p>
+  </th>
+    <th>
+    <p align="center">
+    <img width="90" src="https://associacao-casa-do-pai.vercel.app/imagens/logoACasaDoPai.png" alt="logo">
+    </p>
+  </th>
+  <th>
+    <p align="center">
+    <img width="90" src="https://github.com/Bruno-Lafayette/nano_3/blob/main/nano_3/nano_3/Assets.xcassets/AppIcon.appiconset/1024.png" alt="logo">
+    </p>
+  </th>
+  <tbody>
+  <tr>
+    <td>
+    <p align="center">
+      <a target="blanck" href="https://froggr.com.br"> Frog-GR</a>
+    </p>
+    </td>
+    <td>
+    <p align="center">
+      <a target="blanck" href="https://associacao-casa-do-pai.vercel.app"> Casa Pai </a>
+    </p>
+    </td>
+    <td>
+    <p align="center">
+      <a target="blanck" href="https://associacao-casa-do-pai.vercel.app"> Vestibulendo </a>
+    </p>
+    </td>
+  </tr>
+    </table>
   
 
 
 
 
+
+
                                                                                                                       
- 
 
 
 
