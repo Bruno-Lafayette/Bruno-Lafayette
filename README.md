@@ -1,4 +1,24 @@
-### Hi there 👋
+
+<p> about </p>
+<h1 align="center">A developer in constant learning</h1>
+
+<h3>Characteristics</h3>
+
+- fascination with technology;
+- passionate about photography;
+- musician in my spare time.
+
+<hr>
+
+<p align="center">
+  <img width="200"src="https://www.pngmart.com/files/10/Download-On-The-App-Store-PNG-Transparent-Image.png" alt="logo">
+</p> 
+                                                                                                                      
+<p align="center">
+  <img width="200" src="https://apps.apple.com/br/app/dias-até/id6443549152" alt="logo">
+</p>  
+
+
 
 <!--
 **Bruno-Lafayette/Bruno-Lafayette** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +36,3 @@ Here are some ideas to get you started:
 -->
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Bruno-Lafayette&theme=Javascript-dark&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
-
-
-![badges1](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6n8fc8zw8pawxveffitx.png)
