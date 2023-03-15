@@ -1,7 +1,8 @@
-
+<p align="center">
+<img src="https://raw.githubusercontent.com/Bruno-Lafayette/Bruno-Lafayette/main/Bruno%20Lafayette%20Developer%20Swift.png?token=GHSAT0AAAAAAB5TV7KY4PDXBOBTAO3R5YZ4ZASIO2Q">
+</P>
 <h1 align="center">A developer in constant learning</h1>
 <p align="center" > fascination with technology | passionate about photography | musician in my spare time </p>
-
 <hr>
 
 <p align="center" >
