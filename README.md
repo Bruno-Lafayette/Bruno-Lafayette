@@ -5,10 +5,8 @@
 <p align="center" > fascination with technology | passionate about photography | musician in my spare time </p>
 
 <br>
-<hr>
-<br>
 <p align="center" >
-  <img width="200"src="https://www.pngmart.com/files/10/Download-On-The-App-Store-PNG-Transparent-Image.png" alt="logo">
+  <img width="140"src="https://www.pngmart.com/files/10/Download-On-The-App-Store-PNG-Transparent-Image.png" alt="logo">
 </p> 
 <p align="center">
   <kbd>
@@ -23,8 +21,6 @@
       </a>
    </kbd>
 </p>
-<br>
-<hr>
 <br>
 
 
@@ -169,14 +165,17 @@
 <br>
 <br>
 
+<div align="left">
 <h6 align="center">Connect with me:</h6>
-
 <p align="center">
 <a href="https://twitter.com/devhippie_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devhippie_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/bruno-lafayette" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bruno-lafayette" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/21205732" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21205732" height="30" width="40" /></a>
 <a href="https://medium.com/@brunolafayette" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@brunolafayette" height="30" width="40" /></a>
 </p>
+</div>
+
+
 
                                                                                                                      
 
