@@ -3,12 +3,13 @@
 </P>
 <h1 align="center">A developer in constant learning</h1>
 <p align="center" > fascination with technology | passionate about photography | musician in my spare time </p>
-<hr>
 
+<br>
+<hr>
+<br>
 <p align="center" >
   <img width="200"src="https://www.pngmart.com/files/10/Download-On-The-App-Store-PNG-Transparent-Image.png" alt="logo">
 </p> 
-
 <p align="center">
   <kbd>
       <a href="https://apps.apple.com/br/app/dias-até/id6443549152" target="_blank">
@@ -22,11 +23,45 @@
       </a>
    </kbd>
 </p>
-
-
+<br>
 <hr>
+<br>
+
+
+<h3 align="center">Websites and apps developed for study</h3>
+
+<br>
 
 <p align="center">
+        <kbd>
+        <a href="https://froggr.com.br">
+         <img width="60" src="http://froggr.com.br/wp-content/uploads/2020/01/Logo_Frog-Atualizado-1-e1579896469461.png" alt="logo">
+       </a>
+       </kbd>
+       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+       <kbd>
+       <a href="https://associacao-casa-do-pai.vercel.app">
+         <img width="70" src="https://associacao-casa-do-pai.vercel.app/imagens/logoACasaDoPai.png" alt="logo">
+       </a>
+       </kbd>
+       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+       <kbd>
+       <a href="https://froggr.com.br">
+         <img width="70" src="https://github.com/Bruno-Lafayette/nano_3/blob/main/nano_3/nano_3/Assets.xcassets/AppIcon.appiconset/1024.png" alt="logo">
+       </a>
+       </kbd>
+       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+       <kbd>
+       <a href="https://froggr.com.br">
+         <img width="70" src="https://github.com/Bruno-Lafayette/ahva/blob/main/ahva/Assets.xcassets/AppIcons/AppIcon.appiconset/1024.png" alt="logo">
+       </a>
+       </kbd>
+</p>
+
+<br>
+
+<p align="center">
+<!--
   <kbd>
     <br>
     <br>
@@ -66,6 +101,7 @@
     <br>
   </kbd>
     &nbsp;&nbsp;&nbsp;
+    -->
     <kbd>
     <br>
     HARD SKILLS
@@ -96,6 +132,7 @@
       <br>
     </kbd>
     &nbsp;&nbsp;&nbsp;
+    <!--
     <kbd>
     <br>
     SOFT SKILL
@@ -127,9 +164,12 @@
     </kbd>
   <br>
   <br>
+  -->
 </p>
+<br>
+<br>
 
-<h3 align="center">Connect with me:</h3>
+<h6 align="center">Connect with me:</h6>
 
 <p align="center">
 <a href="https://twitter.com/devhippie_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devhippie_" height="30" width="40" /></a>
