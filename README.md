@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/Bruno-Lafayette/Bruno-Lafayette/main/Bruno%20Lafayette%20Developer%20Swift.png?token=GHSAT0AAAAAAB5TV7KY4PDXBOBTAO3R5YZ4ZASIO2Q">
+<img width="190" src="https://raw.githubusercontent.com/Bruno-Lafayette/Bruno-Lafayette/main/Bruno%20Lafayette%20Developer%20Swift.png?token=GHSAT0AAAAAAB5TV7KZ6H6HZZBV77KM2236ZASIW7A">
 </P>
 <h1 align="center">A developer in constant learning</h1>
 <p align="center" > fascination with technology | passionate about photography | musician in my spare time </p>
@@ -61,14 +61,19 @@
     <br>
     <br>
     <kbd>
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" />
       <img width="30px" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
       <img width="30px" src="https://img.icons8.com/color/48/000000/css3.png"/>
       <img width="30px" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
       <img width="30px" src="https://img.icons8.com/officel/48/000000/php-logo.png"/>
-      <img width="30px" src="https://img.icons8.com/color/48/000000/nextjs.png"/>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
       <img width="30px" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
       <img width="30px" src="https://img.icons8.com/fluency/48/000000/wordpress.png"/>
+      <br>
+      <br>
+       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" />
+       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" />
+       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
     </kbd>
     <br>
     <br>
@@ -76,10 +81,15 @@
   </kbd>
   <br>
   <br>
-  
-  
 </p>
 
+<h3 align="center">Connect with me:</h3>
+
+<p align="center">
+<a href="https://twitter.com/devhippie_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devhippie_" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/bruno-lafayette" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bruno-lafayette" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/21205732" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21205732" height="30" width="40" /></a>
+</p>
 
                                                                                                                      
 
