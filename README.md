@@ -23,41 +23,49 @@
    </kbd>
 </p>
 
-    
+
 <hr>
 
 <p align="center">
   <kbd>
     <br>
     <br>
+    &nbsp;&nbsp;&nbsp;
     Websites and apps developed for study
+    &nbsp;&nbsp;&nbsp;
     <br>
     <br>
     <br>
     &nbsp;&nbsp;&nbsp;
     <kbd>
       <a href="https://froggr.com.br">
-         <img width="45" src="http://froggr.com.br/wp-content/uploads/2020/01/Logo_Frog-Atualizado-1-e1579896469461.png" alt="logo">
+         <img width="35" src="http://froggr.com.br/wp-content/uploads/2020/01/Logo_Frog-Atualizado-1-e1579896469461.png" alt="logo">
        </a>
     </kbd>
-    &nbsp;&nbsp;
+    &nbsp;
      <kbd>
       <a href="https://associacao-casa-do-pai.vercel.app">
-         <img width="50" src="https://associacao-casa-do-pai.vercel.app/imagens/logoACasaDoPai.png" alt="logo">
+         <img width="40" src="https://associacao-casa-do-pai.vercel.app/imagens/logoACasaDoPai.png" alt="logo">
        </a>
     </kbd>
-    &nbsp;&nbsp;
+    &nbsp;
      <kbd>
       <a href="https://froggr.com.br">
-         <img width="50" src="https://github.com/Bruno-Lafayette/nano_3/blob/main/nano_3/nano_3/Assets.xcassets/AppIcon.appiconset/1024.png" alt="logo">
+         <img width="40" src="https://github.com/Bruno-Lafayette/nano_3/blob/main/nano_3/nano_3/Assets.xcassets/AppIcon.appiconset/1024.png" alt="logo">
        </a>
     </kbd>
-    &nbsp;&nbsp;&nbsp;
+    &nbsp;
     <br>
+    <br>
+    <kbd>
+      <a href="https://froggr.com.br">
+         <img width="40" src="https://github.com/Bruno-Lafayette/ahva/blob/main/ahva/Assets.xcassets/AppIcons/AppIcon.appiconset/1024.png" alt="logo">
+       </a>
+    </kbd>
     <br>
     <br>
   </kbd>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;
     <kbd>
     <br>
     HARD SKILLS
