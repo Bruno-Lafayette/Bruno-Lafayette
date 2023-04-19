@@ -20,6 +20,12 @@
       <img width="90" src="https://raw.githubusercontent.com/oManhattan/MiniChallenge002/main/MiniChallenge002%20Shared/Assets.xcassets/AppIcon.appiconset/1024.png" alt="logo">
       </a>
    </kbd>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <kbd>
+     <a href="https://apps.apple.com/br/app/consulte/id6447212923">
+      <img width="90" src="https://consulte-beryl.vercel.app/resources/logoConsulte.png" alt="logo">
+      </a>
+   </kbd>
 </p>
 <br>
 
