@@ -6,6 +6,10 @@
 
 <br>
 <p align="center" >
+  <img width="600"src="winner_ChallengeApple_BrunoLafayette.png" alt="logo">
+</p> 
+<br>
+<p align="center" >
   <img width="140"src="https://www.pngmart.com/files/10/Download-On-The-App-Store-PNG-Transparent-Image.png" alt="logo">
 </p> 
 <p align="center">
