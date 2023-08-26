@@ -6,7 +6,7 @@
 
 <br>
 <p align="center" >
-  <img width="600"src="winner_ChallengeApple_BrunoLafayette.png" alt="logo">
+  <img width="400"src="winner_ChallengeApple_BrunoLafayette.png" alt="logo">
 </p> 
 <br>
 <p align="center" >
